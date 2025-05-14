@@ -1,7 +1,7 @@
    ORG 1000h
-iniP1 db "Ingrese Msj",0Ah
+iniP1 db "Ingrese Msj",0Ah 
 finP1 db ?
-iniP2 db 0Ah,"Cant 'a' es: "
+iniP2 db 0Ah,"Cantidad de 'a' es: "
 finP2 db ?
 CANT  db 0h,0h,0h
 MENSAJE db ?
