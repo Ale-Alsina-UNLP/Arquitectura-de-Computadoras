@@ -1,7 +1,7 @@
-        org 1000h
+  org 1000h
 C   db 'A'
 RES db ?
-       org 2000h
+  org 2000h
        mov al,C
        cmp al,41h
        js noMay
