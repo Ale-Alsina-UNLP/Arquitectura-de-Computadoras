@@ -1,8 +1,8 @@
     org 1000h
-msj  db "hola, buen dia"
+msj  db "HOLA, BUEN DIA"
 fin  db ?
     org 2000h
-       mov bx, offset mensaje
+       mov bx, offset msj
        mov cl, offset fin - offset msj
        mov al, 41h ; "a"
        mov ah, 5ah ; "z"
@@ -14,6 +14,6 @@ sigue: mov ch, [bx]
        add byte ptr [bx], 20h
 no_es: inc bx
        dec cl
-       jnz sigo
+       jnz sigue
 hlt
 end
