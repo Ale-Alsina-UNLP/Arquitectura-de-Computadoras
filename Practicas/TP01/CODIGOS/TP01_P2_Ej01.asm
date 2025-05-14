@@ -1,6 +1,6 @@
    org 1000h
-msj db  ̏arquitectura de computadoras-˝
-    db  ̏facultad de informatica-˝ 
+msj db  "ARQUITECTURA DE COMPUTADORAS-"
+    db  "FACULTAD DE INFORMATICA-"
     db 55h
     db 4eh
     db 4ch
