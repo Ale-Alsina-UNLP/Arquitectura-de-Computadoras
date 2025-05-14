@@ -1,5 +1,5 @@
     org 1000h
-msj  db "HOLA, BUEN DIA"
+msj  db "Hola, Buenas Tardes"
 fin  db ?
     org 2000h
        mov bx, offset msj
