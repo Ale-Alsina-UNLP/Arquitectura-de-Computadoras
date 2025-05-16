@@ -1,6 +1,6 @@
   org 1000h
-a   db 100
-b   db 3
+a  db 100
+b  db 3
 res dw ?
 
 ;;;;;;;;;;;;;;;; SUBRUTINA Multiplicación ;;;;;;;;;;;;;;;;;;;
