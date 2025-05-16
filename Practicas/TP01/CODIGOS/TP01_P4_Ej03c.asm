@@ -2,7 +2,7 @@
 c   db "g"
 res db ?
 
-;;;;;; SIBRUTINA A_MINUS ;;;;;;
+;;;;;; SUBRUTINA A_MINUS ;;;;;;
   ORG 3000H
 minus: add al, 20h
        ret
