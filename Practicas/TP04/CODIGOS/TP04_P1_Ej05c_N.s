@@ -1,4 +1,4 @@
-;<------------- TP04_P1_Ej05 B ------------>
+;<------------- TP04_P1_Ej05 C ------------>
 ; Usando NEMOTECNICOS en el codigo
 ; Calcula el factorial de N, 
 ; y lo guarda en F:
