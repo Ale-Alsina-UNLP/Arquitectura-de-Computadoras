@@ -1,4 +1,4 @@
-;<------------- TP04_P1_Ej05 B ------------>
+;<------------- TP04_P1_Ej05 C ------------>
 ; SIN NEMOTECNICOS SOLO NRO REGISTROS
 ; Calcula el factorial de N, 
 ; y lo guarda en F:
